@@ -1,1 +1,1 @@
-// Just another test
+// This is how we comment in a js file
